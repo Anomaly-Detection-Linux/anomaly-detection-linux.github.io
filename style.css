@@ -1,6 +1,6 @@
 body { 
   background-color:#FFC425;
-  background-image: url(background.jpg);
+  background-image: url("background.jpg");
   color: #000000;
   font-family: Arial, Helvetica, sans-serif;
 }
